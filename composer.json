@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/affiliations",
+	"name": "sunnysideup/affiliations",
 	"type": "silverstripe-module",
 	"description": "adds a basic affiliation data object to your code",
 	"homepage": "http://www.silverstripe-webdevelopment.com",
