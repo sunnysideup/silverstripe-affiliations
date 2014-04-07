@@ -9,9 +9,10 @@ Requirements
 -----------------------------------------------
 see composer.json
 
+
 Documentation
 -----------------------------------------------
- http://silverstripe-webdevelopment.com/affiliations/
+
 
 Installation Instructions
 -----------------------------------------------
