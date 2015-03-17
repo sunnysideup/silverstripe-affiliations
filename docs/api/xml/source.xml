@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source xmlns="http://xml.phpdox.net/src">
+  <dir name="/var/www/_modules/affiliations/trunk">
+    <file name="_config.php" size="432" time="2015-03-14T10:23:22+13:00" unixtime="1426281802" sha1="718955bfd28e04b4b85c4324237a5938749ccf80" xml="tokens/_config.php.xml"/>
+    <dir name="code">
+      <dir name="model">
+        <file name="Affiliation.php" size="1516" time="2015-03-14T10:23:22+13:00" unixtime="1426281802" sha1="929f566e2c5b2717cdabc0149fdef10d1a0ce543" xml="tokens/code/model/Affiliation.php.xml"/>
+      </dir>
+    </dir>
+  </dir>
+</source>
