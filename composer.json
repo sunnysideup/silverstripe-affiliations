@@ -3,8 +3,10 @@
     "type": "silverstripe-module",
     "description": "adds a basic affiliation data object to your code",
     "keywords": [
-        "affiliations",
-        "silverstripe"
+        "Silverstripe-CMS",
+        "CMS",
+        "Silverstripe",
+        "affiliations"
     ],
     "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
     "authors": [
@@ -15,7 +17,8 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "~2.4"
+        "silverstripe/framework": "~2.4",
+        "silverstripe/cms": "~2.4"
     },
     "extra": {
         "installer-name": "affiliations"
