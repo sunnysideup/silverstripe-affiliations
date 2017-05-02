@@ -15,7 +15,7 @@
 
  * [Developer Docs](docs/en/INDEX.md)
  * [User Guide](docs/en/userguide.md)
- * [API Docs](http://docs.ssmods.com/sunnysideup/affiliations)
+ * [API Docs](http://docs.ssmods.com/sunnysideup/affiliations/classes.xhtml)
 
 ## Requirements
 
